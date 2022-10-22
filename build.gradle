@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.k3l6'
-version = '0.0.1-SNAPSHOT'
+version = 'local'
 sourceCompatibility = '11'
 
 configurations {
